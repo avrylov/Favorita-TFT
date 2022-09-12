@@ -55,7 +55,7 @@ make submmit check_point_name=my_favorite_expirement/epoch=29-val_loss=31.6326.c
 ```
 
 ## PS
-If you find this project - leave a star.
+If you find this project usefull - leave a star. \
 Good luck in your submissions.
 
 ## contacts
